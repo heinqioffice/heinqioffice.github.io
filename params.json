@@ -1,0 +1,6 @@
+{
+  "name": "Heinqioffice.GitHub.io",
+  "tagline": "Stock Information Get",
+  "body": "# Usage:\r\n**Step1 : Select target market**\r\n ![image001.png](https://raw.githubusercontent.com/heinqioffice/supportPhotos/master/image001.png)\r\n\r\n**Step2: Input single stock ID or multiple stock IDs (separated by comma)**\r\n ![image003.png](https://raw.githubusercontent.com/heinqioffice/supportPhotos/master/image003.png)\r\n\r\n**Step3: Select columns which want display**\r\n ![image005.png](https://raw.githubusercontent.com/heinqioffice/supportPhotos/master/image005.png)\r\n\r\n**Step4: Select the cell (row 1, column 1) display data and chick the button “Get”**\r\n ![image007.png](https://raw.githubusercontent.com/heinqioffice/supportPhotos/master/image007.png)\r\n \r\n**Step5: Data display and using**\r\n ![image009.png](https://raw.githubusercontent.com/heinqioffice/supportPhotos/master/image009.png) \r\n\r\n# Support\r\nAny question or suggestion, please contact: pengdan@heinqi.com. \r\n\r\nThanks. \r\n\r\n# Privacy\r\nThis app does not collect or save any personal information from you. The stock IDs you enter are stored in the document and sent to Baidu. No other information is stored.\r\n\r\n# Copyright\r\nCopyright by Suzhou HeinQi Information Technology Co., Ltd",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
